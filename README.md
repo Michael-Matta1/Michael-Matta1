@@ -1,6 +1,6 @@
 ### <img src="Hi.gif" width="25px"> Hi! Welcome to my <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="25" height="25" style="background: white;"/> profile!
 
-### <img src="info.gif" alt="React" width="20" height="20"/> I am open to any projects related to [AI`↗`](https://coursera.org/verify/professional-cert/6431TQRL08KE), [Data Science`↗`](https://www.datacamp.com/certificate/DS0024547006007), [Data Analysis`↗`](https://www.credly.com/badges/b55c8430-64aa-4585-8d04-5c61ed763e94/public_url), [Machine Learning`↗`](https://www.coursera.org/account/accomplishments/specialization/8PSN10N0VCPC), and [Deep Learning`↗`](https://www.coursera.org/account/accomplishments/professional-cert/4WFB3AL9MXXX).
+### <img src="info.gif" alt="React" width="20" height="20"/> My primary focus and work are on applying [AI`↗`](https://coursera.org/verify/professional-cert/6431TQRL08KE), [Data Science`↗`](https://www.datacamp.com/certificate/DS0024547006007), [Data Analysis`↗`](https://www.credly.com/badges/b55c8430-64aa-4585-8d04-5c61ed763e94/public_url), [Machine Learning`↗`](https://www.coursera.org/account/accomplishments/specialization/8PSN10N0VCPC), and [Deep Learning`↗`](https://www.coursera.org/account/accomplishments/professional-cert/4WFB3AL9MXXX) to solve real-world problems.
 
 <img width="350" align="right" src="Michael-Matta1.gif">
 
